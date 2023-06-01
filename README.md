@@ -40,3 +40,7 @@ php artisan serve
 it will run your application at http://127.0.0.1:8000/
 
 Note: For now .env file is in the git repo, But we can keep it in gitignore. So make sure when you take pull you will have **WEATHER_API_KEY** in .env set
+
+Screenshots:
+
+<img src="https://sudhirdadwal.in/wp-content/uploads/images/laravel.png">
