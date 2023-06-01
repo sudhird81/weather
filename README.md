@@ -7,12 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Weather Dashboard
+## Weather Dashboard
 
-Weather Dashboard is for checking weather of any city as user input, We are using weatherAPI (https://www.weatherapi.com/) to fetch current weather information of a City:
+Weather Dashboard is for checking weather of any city as user input, We are using **weatherAPI** (https://www.weatherapi.com/) to fetch current weather information of a City:
 
 -   First of all Make Sure you will have PHP running on your system, if not you can install XAMPP. Make Sure PHP is running via CLI too.
--   You need install Composer on your system Ref:(https://getcomposer.org/download/)
+-   You need install **Composer** on your system Ref:(https://getcomposer.org/download/)
 -   Once you install Composer, Install Laravel globally using command:
 
 ```
@@ -22,7 +22,7 @@ composer global require laravel/installer
 Ref: [Link](https://laravel.com/docs/7.x/installation#installing-laravel)
 
 -   Get Clone of repository and pull the code from git using https://github.com/sudhird81/weather.git
--   Now from command line go to the root directory of the project e.g. d:/project/weather/
+-   Now from command line go to the root directory of the project **e.g. d:/project/weather/**
 -   Install Dependiencies by running Command:
 
 ```
@@ -39,4 +39,4 @@ php artisan serve
 
 it will run your application at http://127.0.0.1:8000/
 
-Note: For now .env file is in the git repo, But we can keep it in gitignore. So make sure when you take pull you will have [WEATHER_API_KEY] in .env set
+Note: For now .env file is in the git repo, But we can keep it in gitignore. So make sure when you take pull you will have **WEATHER_API_KEY** in .env set
