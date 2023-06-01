@@ -19,7 +19,7 @@ Weather Dashboard is for checking weather of any city as user input, We are usin
 composer global require laravel/installer
 ```
 
-Ref: [Link](https://laravel.com/docs/7.x/installation#installing-laravel)
+Ref: [Read More on Laravel Installer](https://laravel.com/docs/7.x/installation#installing-laravel)
 
 -   Get Clone of repository and pull the code from git using https://github.com/sudhird81/weather.git
 -   Now from command line go to the root directory of the project **e.g. d:/project/weather/**
