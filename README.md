@@ -43,4 +43,4 @@ Note: For now .env file is in the git repo, But we can keep it in gitignore. So 
 
 Screenshots:
 
-<img src="https://sudhirdadwal.in/wp-content/uploads/images/laravel.png">
+<img src="https://ebullientsoft.com/img/laravel.png">
